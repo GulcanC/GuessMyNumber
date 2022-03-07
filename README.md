@@ -11,12 +11,20 @@ shows our Higher score.
 
 ### The Goal of the Project 
 🖍️ To practice DOM manipulation
+
 🖍️ Selecting and manipulating the elements with JS 
+
    console.log(document.querySelector('.className').textContent);
+   
    document.querySelector('.className');
+   
    document.querySelector('.className').value;
+   
    document.querySelector('.className').textContent;
+   
    document.querySelector('#idName');
+   
+   
 
 ### DOM Manipulation
 DOM stands Document Object Model, it is basically, a structured representation of HTML documents. It allows JS to access HTML elements and styles to manipulate them. DOM is 
