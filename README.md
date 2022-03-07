@@ -23,7 +23,7 @@ shows our Higher score.
    
       document.querySelector('#idName');
    
-🖍️
+🖍️ Using event listener, mouse click, mouse moving, key press, ...
    
    
 
