@@ -24,9 +24,13 @@ shows our Higher score.
       document.querySelector('#idName');
    
 🖍️ Using event listener, mouse click, mouse moving, key press, ...
-   
-   
 
+### Event Listener
+In order to listen for events, we first need to select the element where the event should happen, and then we can call addEventListenere() method. After that, we need to pass in the type of the event and then we should tell the event listener what to do by defining a function. This function will contain exactly the code that should be executed whenever this click event happens. That function is called as the event handler. addEventListener() method is a special kind of function. That's because as a second argument we need to pass in a function value. A function is also just a value, so we can also pass it into another function as an argument, just like any other value like string, number, ... We do not call this function anywhere, we only define the function and then pass it into the event handler. This function will not be called immediately once the script is executed. This function will only be called as soon as the event happens.
+
+### Number Function 
+Whenever we get something from the user interface, for example from an input field, it usually is a string. We need to first convert this string to a number, for this purpose we use Number function
+   
 ### DOM Manipulation
 DOM stands Document Object Model, it is basically, a structured representation of HTML documents. It allows JS to access HTML elements and styles to manipulate them. DOM is 
 basically a connection point between HTML document and JS code. DOM is automatically created by the browser as soon as the HTML page loads. In DOM tree we use the terms "parent element", "child element" and "sibling element" and so on. DOM always start with the document object, at the very top. Document is a special object that is the entry point to the DOM. Then the first child element of the document is usually the HTML element because it is the root element in all HTML documents. Next, HTML element has two child elements head and body. Inside head and body we have more child elements. 
