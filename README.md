@@ -8,7 +8,7 @@ The score starts with a score of 20 and after one failed guess it will decrease 
 If we want to play again, we can simply click "Again" button and it all resets everything except for "Highscore". "Highscore" is another feature of this small application that shows our Higher score. 
 
 ### The Goal of the Project 
-🖍️ To practice DOM manipulation
+🖍️ To practice DOM manipulation and web APIs
 
 🖍️ Selecting and manipulating the elements with JS 
 
@@ -23,8 +23,11 @@ If we want to play again, we can simply click "Again" button and it all resets e
       document.querySelector('#idName');
    
 🖍️ Using event listener, mouse click, mouse moving, key press, ...
-🖍️ To practice with the built-in methods and built-in objects, Math.random(), Math.trunc(), Number(), Math()
-🖍️ Practicing with the conditional statements; if, else, else-if and ternary operator
+
+🖍️ To practice the built-in methods and built-in objects, Math.random(), Math.trunc(), Number(), Math()
+
+🖍️ Practicing the conditional statements; if, else, else-if and ternary operator
+
 🖍️ Manipulating CSS style with JavaScript
 
 ### Event Listener
