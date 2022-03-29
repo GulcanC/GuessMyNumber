@@ -1,5 +1,8 @@
 # Guess My Number - JavaScript Game - DOM, Web APIs
 
+### ➡️ Visit project page
+https://gulcanc.github.io/GuessMyNumber/
+
 ### About The Project
 In this project we will guess a secret number which is between 1 and 20. There is an input that we can write a number. When we click the "check" button we will get a message at the right side. The message depends on our number and it will say "Too low", "Too high" or "Correct number".
 
