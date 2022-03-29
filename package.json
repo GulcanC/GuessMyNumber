@@ -1,0 +1,16 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "In this project we will guess a secret number which is between 1 and 20. There is an input that we can write a number. When we click the \"check\" button we will get a message at the right side. The message depends on our number and it will say \"Too low\", \"Too high\" or \"Correct number\".",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://GulcanC.github.io/GuessMyNumber",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
